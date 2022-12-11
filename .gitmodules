@@ -1,0 +1,9 @@
+[submodule "MultiMAE"]
+	path = MultiMAE
+	url = git@github.com:xingcw/MultiMAE.git
+[submodule "DPT"]
+	path = DPT
+	url = https://github.com/isl-org/DPT
+[submodule "Mask2Former"]
+	path = Mask2Former
+	url = https://github.com/facebookresearch/Mask2Former.git
