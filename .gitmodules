@@ -3,7 +3,10 @@
 	url = git@github.com:xingcw/MultiMAE.git
 [submodule "DPT"]
 	path = DPT
-	url = https://github.com/isl-org/DPT
+	url = git@github.com:xingcw/DPT.git
 [submodule "Mask2Former"]
 	path = Mask2Former
-	url = https://github.com/facebookresearch/Mask2Former.git
+	url = git@github.com:xingcw/Mask2Former.git
+[submodule "transformers"]
+	path = transformers
+	url = git@github.com:xingcw/transformers.git
