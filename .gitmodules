@@ -7,6 +7,3 @@
 [submodule "Mask2Former"]
 	path = Mask2Former
 	url = git@github.com:xingcw/Mask2Former.git
-[submodule "transformers"]
-	path = transformers
-	url = git@github.com:xingcw/transformers.git
