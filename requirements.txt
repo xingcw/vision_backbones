@@ -1,0 +1,47 @@
+numpy
+scipy
+setuptools==59.5.0
+Pygments>=2.7.4
+cmake
+triton
+ruamel.yaml
+virtualenv
+wandb
+tqdm
+ttach
+cython
+einops
+pandas
+seaborn
+shapely
+submitit
+Pillow
+h5py
+tabulate
+imageio
+matplotlib
+opencv-python
+bitsandbytes
+albumentations
+ml-collections
+torchviz
+ffmpeg
+timm==0.4.12
+scikit-image
+scikit-learn
+torch==1.10.0+cu113
+torchvision==0.11.0+cu113
+torchaudio==0.10.0
+-f https://download.pytorch.org/whl/torch_stable.html
+transformers
+
+detectron2 
+-f https://dl.fbaipublicfiles.com/detectron2/wheels/cu113/torch1.10/index.html
+
+einops==0.3.2
+wandb
+
+# local packages
+DPT/
+Mask2Former/
+MultiMAE/   
